@@ -24,3 +24,9 @@ cd /c/it114/exampleProjects ) <br>
 git clone https://github.com/njit-it114/example-java-inheritance.git <br>
 or<br>
 git clone https://github.com/njit-it114/example-java-inheritance.git  whateverDirectoryNameYouWantStuffToBeClonedInto
+
+## Project directory structure
+- README.md this read me file
+- src directory of java packages
+- design directory of design documents, like class diagram
+ 
